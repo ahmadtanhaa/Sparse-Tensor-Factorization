@@ -2,7 +2,7 @@
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
-You are free to share this material, provided that appropriate credit is given, a link to the license is provided, and any changes are indicated.
+You are free to share this material, provided that appropriate credit is given and a link to the license is provided.
 
 You may not use the material for commercial purposes.
 
