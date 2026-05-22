@@ -24,15 +24,15 @@ The codes in this repository reproduce the numerical comparisons reported in the
 
 The repository includes Python routines for:
 
-- generating admissible exponent tuples,
-- constructing multidimensional tiles,
-- checking tuple-tile feasibility,
-- building the associated assignment graph,
-- solving the assignment problem using max-flow,
-- computing the proposed achievable number of servers,
-- comparing with the default tensor decomposition baseline,
-- comparing with the TDC baseline,
-- generating IEEE-style histogram plots.
+- Generating admissible exponent tuples,
+- Constructing multidimensional tiles,
+- Checking tuple-tile feasibility,
+- Building the associated assignment graph,
+- Solving the assignment problem using max-flow,
+- Computing the proposed achievable number of servers,
+- Comparing with the default tensor decomposition baseline,
+- Comparing with the Tessellated Distributed Computing baseline,
+- Generating IEEE-style histogram plots.
 
 ## Requirements
 
