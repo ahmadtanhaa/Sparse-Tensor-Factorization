@@ -1,4 +1,4 @@
-# Sparse-Tensor-Factorization
+# Sparse Tensor Factorization with Combinatorial Reduction
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.16171-b31b1b.svg)](https://arxiv.org/abs/2601.16171v2)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
