@@ -11,3 +11,16 @@ year: 2026
 repository-code: "https://github.com/ahmadtanhaa/MUNLSDC"
 journal: "arXiv preprint arXiv:2601.16171"
 url: "https://arxiv.org/abs/2601.16171v2"
+license: "CC-BY-NC-ND-4.0"
+keywords:
+  - distributed computing
+  - coded computing
+  - non-linearly separable functions
+  - sparse tensor factorization
+  - tensor decomposition
+  - multi-user computation
+  - communication-computation tradeoff
+  - information theory
+  - Python
+
+
