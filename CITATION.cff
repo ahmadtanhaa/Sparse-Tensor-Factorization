@@ -9,18 +9,5 @@ authors:
 year: 2026
 
 repository-code: "https://github.com/ahmadtanhaa/MUNLSDC"
-
-type: article
-title: "Multi-User Non-Linearly Separable Distributed Computing"
-authors:
-  - family-names: "Khalesi"
-    given-names: "Ali"
-  - family-names: "Tanha"
-    given-names: "Ahmad"
-  - family-names: "Malak"
-    given-names: "Derya"
-  - family-names: "Elia"
-    given-names: "Petros"
-year: 2026
 journal: "arXiv preprint arXiv:2601.16171"
 url: "https://arxiv.org/abs/2601.16171v2"
