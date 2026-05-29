@@ -85,6 +85,13 @@ The paper is available at:
 
 [https://arxiv.org/abs/2601.16171v2](https://arxiv.org/abs/2601.16171v2)
 
+You may also cite the repository using the `CITATION.cff` file.
+
+## Author
+
+**Ahmad Tanha**
+
+GitHub: https://github.com/ahmadtanhaa
 
 ## License
 
